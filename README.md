@@ -1,60 +1,19 @@
-<h1>Upload - Write-up Machine</h1>
+<h1>DockerLabs - WriteUps</h1>
 
  ### [Dockerlabs](https://dockerlabs.es/#/)
 
 <h2>Description</h2>
-Write up de la máquina Upload de Dockerlabs. 
-Guía para hackear con éxito la máquina.
+En este repositorio se almacenarán los distintos WriteUps de las máquinas realizadas de DockerLabs.
+DockerLabs es una plataforma desarrollada por "El pinguino de Mario" para realizar pentesting en entornos seguros.
+Espero que os sean de utilidad!
 
 <br />
 
 
-<h2>Key points</h2>
+<h2>Estructura</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Machine.name/</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+- <b>Kali Linux</b> 
