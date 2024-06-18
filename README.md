@@ -12,7 +12,7 @@ Espero que os sean de utilidad!
 
 <h2>Estructura</h2>
 
-- <b>Machine.name(dificultad)/</b> 
+- <b>Machine.name(dificultad).md/</b> 
 
 <h2>Environments Used </h2>
 
