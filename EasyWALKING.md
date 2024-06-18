@@ -308,6 +308,7 @@ script /dev/null -c bash
 Script started, output log file is '/dev/null'.
 www-data@d571340fab84:/$ ^Z   
 zsh: suspended  nc -lvnp 5555
+                             reset xterm
 
 ┌──(miguel㉿miguel)-[~]
 └─$ stty raw -echo;fg
